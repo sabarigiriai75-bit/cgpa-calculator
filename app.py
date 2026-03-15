@@ -10,8 +10,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-# Path to Tesseract
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 st.set_page_config(page_title="CGPA Calculator", page_icon="📊")
 
