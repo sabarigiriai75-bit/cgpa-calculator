@@ -1,8 +1,10 @@
 # CGPA Calculator (Python)
 
-A Streamlit web app that calculates CGPA and can read marks using OCR.
+A Streamlit web app that calculates CGPA and can read marks directly from a marksheet image using OCR.
 
-Built using:
+🔗 Live App: https://cgpa-calculator-sabari.streamlit.app
+
+## Built Using
 - Python
 - Streamlit
 - OpenCV
